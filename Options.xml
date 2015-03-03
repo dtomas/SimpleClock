@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!--
+ SimpleClock by Dennis Tomas, based on:
+ MiniClock v. 2.0.0 - a very very simple clock
+ Copyright (C) 2005  Edoardo Spadolini <pedonzolo@email.it>
+-->
+<options>
+  <section title="Display">
+    <frame label="Format">
+      <frame label="Clock">
+        <menu name="line">
+          <item value="%x" label="Date"/>
+          <item value="%X" label="Time"/>
+          <item value="%c" label="Date and Time"/>
+        </menu>
+        <toggle name="textual_line" label="Textual description"/>
+      </frame>
+        <frame label="Tooltip">
+          <menu name="tip">
+            <item value="%x" label="Date"/>
+            <item value="%X" label="Time"/>
+            <item value="%c" label="Date and Time"/>
+          </menu>
+          <toggle name="textual_tip" label="Textual description"/>
+        </frame>
+    </frame>
+    <frame label="Set Time">
+        <entry name='set_program' label='Command to set time and date:'>Command you'll use to set the time.</entry>
+    </frame>
+  </section>
+</options>

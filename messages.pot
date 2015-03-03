@@ -1,0 +1,297 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2007-08-13 12:37+CEST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: clock.py:47 tips:13
+msgid "Set Time"
+msgstr ""
+
+#: clock.py:127
+msgid "Really quit the SimpleClock?"
+msgstr ""
+
+#: pretty_time.py:3
+msgid "Friday"
+msgstr ""
+
+#: pretty_time.py:3
+msgid "Monday"
+msgstr ""
+
+#: pretty_time.py:3
+msgid "Thursday"
+msgstr ""
+
+#: pretty_time.py:3
+msgid "Tuesday"
+msgstr ""
+
+#: pretty_time.py:3
+msgid "Wednesday"
+msgstr ""
+
+#: pretty_time.py:4
+msgid "Saturday"
+msgstr ""
+
+#: pretty_time.py:4
+msgid "Sunday"
+msgstr ""
+
+#: pretty_time.py:6
+msgid "April"
+msgstr ""
+
+#: pretty_time.py:6
+msgid "February"
+msgstr ""
+
+#: pretty_time.py:6
+msgid "January"
+msgstr ""
+
+#: pretty_time.py:6
+msgid "March"
+msgstr ""
+
+#: pretty_time.py:7
+msgid "August"
+msgstr ""
+
+#: pretty_time.py:7
+msgid "July"
+msgstr ""
+
+#: pretty_time.py:7
+msgid "June"
+msgstr ""
+
+#: pretty_time.py:7
+msgid "May"
+msgstr ""
+
+#: pretty_time.py:8
+msgid "December"
+msgstr ""
+
+#: pretty_time.py:8
+msgid "November"
+msgstr ""
+
+#: pretty_time.py:8
+msgid "October"
+msgstr ""
+
+#: pretty_time.py:8
+msgid "September"
+msgstr ""
+
+#: pretty_time.py:10
+msgid "about"
+msgstr ""
+
+#: pretty_time.py:10
+msgid "just gone"
+msgstr ""
+
+#: pretty_time.py:10
+msgid "nearly"
+msgstr ""
+
+#: pretty_time.py:12
+msgid "a quarter past "
+msgstr ""
+
+#: pretty_time.py:12
+msgid "five past "
+msgstr ""
+
+#: pretty_time.py:12
+msgid "ten past "
+msgstr ""
+
+#: pretty_time.py:13
+msgid "half past "
+msgstr ""
+
+#: pretty_time.py:13
+msgid "twenty past "
+msgstr ""
+
+#: pretty_time.py:13
+msgid "twenty-five past "
+msgstr ""
+
+#: pretty_time.py:14
+msgid "a quarter to "
+msgstr ""
+
+#: pretty_time.py:14
+msgid "twenty to "
+msgstr ""
+
+#: pretty_time.py:14
+msgid "twenty-five to "
+msgstr ""
+
+#: pretty_time.py:15
+msgid "five to "
+msgstr ""
+
+#: pretty_time.py:15
+msgid "ten to "
+msgstr ""
+
+#: pretty_time.py:20
+msgid "7"
+msgstr ""
+
+#: pretty_time.py:22
+msgid "five"
+msgstr ""
+
+#: pretty_time.py:22
+msgid "four"
+msgstr ""
+
+#: pretty_time.py:22
+msgid "one"
+msgstr ""
+
+#: pretty_time.py:22
+msgid "six"
+msgstr ""
+
+#: pretty_time.py:22
+msgid "three"
+msgstr ""
+
+#: pretty_time.py:22
+msgid "two"
+msgstr ""
+
+#: pretty_time.py:23
+msgid "eight"
+msgstr ""
+
+#: pretty_time.py:23
+msgid "eleven"
+msgstr ""
+
+#: pretty_time.py:23
+msgid "nine"
+msgstr ""
+
+#: pretty_time.py:23
+msgid "seven"
+msgstr ""
+
+#: pretty_time.py:23
+msgid "ten"
+msgstr ""
+
+#: pretty_time.py:29
+msgid "midnight"
+msgstr ""
+
+#: pretty_time.py:31
+msgid "noon"
+msgstr ""
+
+#: pretty_time.py:37 pretty_time.py:47
+msgid "%dth"
+msgstr ""
+
+#: pretty_time.py:41
+msgid "%dst"
+msgstr ""
+
+#: pretty_time.py:43
+msgid "%dnd"
+msgstr ""
+
+#: pretty_time.py:45
+msgid "%drd"
+msgstr ""
+
+#: pretty_time.py:61
+msgid " o'clock"
+msgstr ""
+
+#: pretty_time.py:66
+msgid "It's %s %s%s%s."
+msgstr ""
+
+#: pretty_time.py:70
+msgid "It's %s, the %s %s %s."
+msgstr ""
+
+#: pretty_time.py:75
+msgid "It's %s %s%s%s on %s, the %s %s %s."
+msgstr ""
+
+#: pretty_time.py:93
+msgid "am"
+msgstr ""
+
+#: pretty_time.py:95
+msgid "pm"
+msgstr ""
+
+#: pretty_time.py:96
+msgid "%s:%02d %s"
+msgstr ""
+
+#: tips:1
+msgid "Display"
+msgstr ""
+
+#: tips:2
+msgid "Format"
+msgstr ""
+
+#: tips:3
+msgid "Clock"
+msgstr ""
+
+#: tips:4 tips:9
+msgid "Date"
+msgstr ""
+
+#: tips:5 tips:10
+msgid "Time"
+msgstr ""
+
+#: tips:6 tips:11
+msgid "Date and Time"
+msgstr ""
+
+#: tips:7 tips:12
+msgid "Textual description"
+msgstr ""
+
+#: tips:8
+msgid "Tooltip"
+msgstr ""
+
+#: tips:14
+msgid "Command to set time and date:"
+msgstr ""
+
+#: tips:15 tips:16 tips:17 tips:18
+msgid "Command you'll use to set the time."
+msgstr ""
+

@@ -1,0 +1,69 @@
+			SimpleClock
+			A very very simple clock
+			by Dennis Tomas
+
+0.3
+~~~
+Show a calendar when left-clicked.
+
+0.2.3
+~~~~~
+Default to "gksu time-admin" for set_prog option.
+Use STOCK_DIALOG_INFO instead of STOCK_ABOUT.
+Added textual description. (stole pretty_time.py from Memo by Thomas Leonard)
+Only set the label's text and the tooltip if they have changed. 
+
+0.2.2
+~~~~~
+Fixed deprecation warnings about g.timeout_add() and g.timeout_remove().
+Fixed crash when 'clock' icon not in icon theme.
+Updating only one time every second. 
+
+0.2.1
+~~~~~
+Use themed icon for "Set Time".
+Added "About" to menu.
+
+0.2
+~~~
+removed unnecessary vbox
+confirm before quitting
+german i18n
+ignore errors of "set time"-program
+
+0.1
+~~~
+added "Set Time" functionality
+simplified setting of time and date
+removed second line
+
+Changelog for MiniClock:
+------------------------
+
+Released MiniClock v. 2.0.0:
+  New features
+    - A menu
+    - The standard rox option dialog
+    - A (almost) perfect italian localization
+  Corrected bugs
+    No known bugs
+
+Released MiniClock v. 1.2.0:
+  New features
+    - You can modify the tooltip and the lines' format
+  Corrected bugs
+    - The rox menu does not appair when you rightclick on the label(s)
+
+Released MiniClock v. 1.1.0:
+  New features
+    - You can show the date in a second line under the time
+      and/or show the date in a tooltip
+  Corrected bugs
+    No known bugs
+
+Released MiniClock v. 1.0.0:
+  New features
+    - Run as normal window or applet
+    - Shows the time and date in two lines
+  Corrected bugs
+    No known bugs

@@ -1,0 +1,298 @@
+# SimpleClock applet
+# Copyright (C) 2006 Dennis Tomas
+# This file is distributed under the same license as the SimpleClock package.
+# Dennis Tomas <dtomas@users.berlios.de>, 2006.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SimpleClock 0.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-08-13 12:37+CEST\n"
+"PO-Revision-Date: 2006-07-19 19:00+0200\n"
+"Last-Translator: Dennis Tomas <dtomas@users.berlios.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: clock.py:47 tips:13
+msgid "Set Time"
+msgstr "Zeit einstellen"
+
+#: clock.py:127
+msgid "Really quit the SimpleClock?"
+msgstr "SimpleClock wirklich beenden?"
+
+#: pretty_time.py:3
+msgid "Friday"
+msgstr "Freitag"
+
+#: pretty_time.py:3
+msgid "Monday"
+msgstr "Montag"
+
+#: pretty_time.py:3
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: pretty_time.py:3
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: pretty_time.py:3
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: pretty_time.py:4
+msgid "Saturday"
+msgstr "Samstag"
+
+#: pretty_time.py:4
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: pretty_time.py:6
+msgid "April"
+msgstr ""
+
+#: pretty_time.py:6
+msgid "February"
+msgstr "Februar"
+
+#: pretty_time.py:6
+msgid "January"
+msgstr "Januar"
+
+#: pretty_time.py:6
+msgid "March"
+msgstr "März"
+
+#: pretty_time.py:7
+msgid "August"
+msgstr ""
+
+#: pretty_time.py:7
+msgid "July"
+msgstr "Juli"
+
+#: pretty_time.py:7
+msgid "June"
+msgstr "Juni"
+
+#: pretty_time.py:7
+msgid "May"
+msgstr "Mai"
+
+#: pretty_time.py:8
+msgid "December"
+msgstr "Dezember"
+
+#: pretty_time.py:8
+msgid "November"
+msgstr ""
+
+#: pretty_time.py:8
+msgid "October"
+msgstr "Oktober"
+
+#: pretty_time.py:8
+msgid "September"
+msgstr ""
+
+#: pretty_time.py:10
+msgid "about"
+msgstr "in etwa"
+
+#: pretty_time.py:10
+msgid "just gone"
+msgstr "gerade"
+
+#: pretty_time.py:10
+msgid "nearly"
+msgstr "gleich"
+
+#: pretty_time.py:12
+msgid "a quarter past "
+msgstr "viertel nach "
+
+#: pretty_time.py:12
+msgid "five past "
+msgstr "fünf nach "
+
+#: pretty_time.py:12
+msgid "ten past "
+msgstr "zehn nach "
+
+#: pretty_time.py:13
+msgid "half past "
+msgstr "halb "
+
+#: pretty_time.py:13
+msgid "twenty past "
+msgstr "zwanzig nach "
+
+#: pretty_time.py:13
+msgid "twenty-five past "
+msgstr "fünf vor halb "
+
+#: pretty_time.py:14
+msgid "a quarter to "
+msgstr "viertel vor "
+
+#: pretty_time.py:14
+msgid "twenty to "
+msgstr "zwanzig vor "
+
+#: pretty_time.py:14
+msgid "twenty-five to "
+msgstr "fünf nach halb "
+
+#: pretty_time.py:15
+msgid "five to "
+msgstr "fünf vor "
+
+#: pretty_time.py:15
+msgid "ten to "
+msgstr "zehn vor "
+
+#: pretty_time.py:20
+msgid "7"
+msgstr "5"
+
+#: pretty_time.py:22
+msgid "five"
+msgstr "fünf"
+
+#: pretty_time.py:22
+msgid "four"
+msgstr "vier"
+
+#: pretty_time.py:22
+msgid "one"
+msgstr "eins"
+
+#: pretty_time.py:22
+msgid "six"
+msgstr "sechs"
+
+#: pretty_time.py:22
+msgid "three"
+msgstr "drei"
+
+#: pretty_time.py:22
+msgid "two"
+msgstr "zwei"
+
+#: pretty_time.py:23
+msgid "eight"
+msgstr "acht"
+
+#: pretty_time.py:23
+msgid "eleven"
+msgstr "elf"
+
+#: pretty_time.py:23
+msgid "nine"
+msgstr "neun"
+
+#: pretty_time.py:23
+msgid "seven"
+msgstr "sieben"
+
+#: pretty_time.py:23
+msgid "ten"
+msgstr "zehn"
+
+#: pretty_time.py:29
+msgid "midnight"
+msgstr "zwölf"
+
+#: pretty_time.py:31
+msgid "noon"
+msgstr "zwölf"
+
+#: pretty_time.py:37 pretty_time.py:47
+msgid "%dth"
+msgstr "%d."
+
+#: pretty_time.py:41
+msgid "%dst"
+msgstr "%d."
+
+#: pretty_time.py:43
+msgid "%dnd"
+msgstr "%d."
+
+#: pretty_time.py:45
+msgid "%drd"
+msgstr "%d."
+
+#: pretty_time.py:61
+msgid " o'clock"
+msgstr " Uhr"
+
+#: pretty_time.py:66
+msgid "It's %s %s%s%s."
+msgstr "Es ist %s %s%s%s."
+
+#: pretty_time.py:70
+msgid "It's %s, the %s %s %s."
+msgstr "Es ist %s, der %s %s %s."
+
+#: pretty_time.py:75
+msgid "It's %s %s%s%s on %s, the %s %s %s."
+msgstr "Es ist %s %s%s%s am %s, dem %s %s %s."
+
+#: pretty_time.py:93
+msgid "am"
+msgstr ""
+
+#: pretty_time.py:95
+msgid "pm"
+msgstr ""
+
+#: pretty_time.py:96
+msgid "%s:%02d %s"
+msgstr ""
+
+#: tips:1
+msgid "Display"
+msgstr "Anzeige"
+
+#: tips:2
+msgid "Format"
+msgstr ""
+
+#: tips:3
+msgid "Clock"
+msgstr "Uhr"
+
+#: tips:4 tips:9
+msgid "Date"
+msgstr "Datum"
+
+#: tips:5 tips:10
+msgid "Time"
+msgstr "Uhrzeit"
+
+#: tips:6 tips:11
+msgid "Date and Time"
+msgstr "Datum und Uhrzeit"
+
+#: tips:7 tips:12
+msgid "Textual description"
+msgstr "Textliche Beschreibung"
+
+#: tips:8
+msgid "Tooltip"
+msgstr ""
+
+#: tips:14
+msgid "Command to set time and date:"
+msgstr "Kommando, um Datum und Uhrzeit einzustellen:"
+
+#: tips:15 tips:16 tips:17 tips:18
+#, fuzzy
+msgid "Command you'll use to set the time."
+msgstr "Kommando, um Datum und Uhrzeit einzustellen:"

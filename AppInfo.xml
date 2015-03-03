@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!--
+ SimpleClock by Dennis Tomas, based on:
+ MiniClock v. 2.0.0 - a very very simple clock
+ Copyright (C) 2005  Edoardo Spadolini <pedonzolo@email.it>
+-->
+<AppInfo>
+  <Summary>A very simple clock</Summary>
+  <Summary xml:lang="it">Un orologio molto semplice</Summary>
+  <Summary xml:lang="de">Eine simple Uhr</Summary>
+  <About>
+    <Purpose>Clock</Purpose>
+    <Version>0.3</Version>
+    <Author>Edoardo Spadolini &lt;pedonzolo@email.it&gt;
+Dennis Tomas &lt;dtomas@users.berlios.de&gt;</Author>
+    <License>GNU General Public License</License>
+    <Homepage>http://rox4debian.berlios.de/0install/SimpleClock.xml</Homepage>
+  </About>
+  <About xml:lang="it">
+    <Purpose label="Scopo">Orologio</Purpose>
+    <Version label="Versione"/>
+    <Author label="Autore"/>
+    <License label="Licenza"/>
+    <Homepage label="Sito web"/>
+  </About>
+</AppInfo>

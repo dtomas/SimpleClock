@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="http://rox4debian.berlios.de/0install/SimpleClock.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>SimpleClock</name>
+  <summary>a simple clock</summary>
+  <description>
+SimpleClock is a very simple clock for the panel.
+  </description>
+
+  <icon href="ftp://ftp.berlios.de/pub/rox4debian/apps/SimpleClock.png" type="image/png"/>
+
+  <feed-for interface="http://rox4debian.berlios.de/0install/SimpleClock.xml"/>
+
+  <group main="AppletRun">
+    <requires interface="http://rox.sourceforge.net/2005/interfaces/ROX-Lib">
+      <environment insert="ROX-Lib2/python" name="PYTHONPATH"/>
+    </requires>
+    <implementation id='.' version="0.3"/>
+  </group>
+</interface>
