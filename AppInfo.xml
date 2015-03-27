@@ -10,9 +10,9 @@
   <Summary xml:lang="de">Eine simple Uhr</Summary>
   <About>
     <Purpose>Clock</Purpose>
-    <Version>0.3</Version>
+    <Version>0.3.1</Version>
     <Author>Edoardo Spadolini &lt;pedonzolo@email.it&gt;
-Dennis Tomas &lt;dtomas@users.berlios.de&gt;</Author>
+Dennis Tomas &lt;den.t@gmx.de&gt;</Author>
     <License>GNU General Public License</License>
     <Homepage>http://rox4debian.berlios.de/0install/SimpleClock.xml</Homepage>
   </About>

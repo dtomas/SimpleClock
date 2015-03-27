@@ -9,7 +9,7 @@ from pretty_time import rough_time
 from calendar_window import CalendarWindow
 from applet import Applet
 
-rox.setup_app_options("SimpleClock", "Options.xml", "rox4debian.berlios.de")
+rox.setup_app_options("SimpleClock", "Options.xml", "dtomas")
 
 icon_theme = g.icon_theme_get_default()
 
