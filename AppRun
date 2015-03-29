@@ -4,7 +4,6 @@
 # MiniClock v. 2.0.0
 # Copyright (C) 2005  Edoardo Spadolini <pedonzolo@email.it>
 
-import findrox; findrox.version(1, 9, 6)
 import sys, os
 
 app_dir = os.path.dirname(__file__)
