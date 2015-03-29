@@ -171,6 +171,7 @@ class ClockApplet(Applet, Clock):
     def __init__(self, xid):
         Applet.__init__(self, xid)
         Clock.__init__(self)
+        self.set_name("SimpleClockPanelApplet")
 
     def button_press(self, window, event):
         if event.button == 3:
