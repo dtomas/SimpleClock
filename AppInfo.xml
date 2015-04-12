@@ -14,7 +14,7 @@
     <Author>Edoardo Spadolini &lt;pedonzolo@email.it&gt;
 Dennis Tomas &lt;den.t@gmx.de&gt;</Author>
     <License>GNU General Public License</License>
-    <Homepage>http://rox4debian.berlios.de/0install/SimpleClock.xml</Homepage>
+    <Homepage>http://github.com/dtomas/SimpleClock</Homepage>
   </About>
   <About xml:lang="it">
     <Purpose label="Scopo">Orologio</Purpose>
